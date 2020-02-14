@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-    <html>
-    <body>
-
-    <p>Input grade</p>
-
-    <button onclick="myFunction()">Try it</button>
-
     <script>
-
-
+    
     function myFunction() {
 
     var data = prompt('Enter your point');
@@ -33,5 +24,3 @@
 
     </script>
 
-    </body>
-    </html>
