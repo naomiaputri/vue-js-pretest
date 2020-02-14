@@ -1,0 +1,23 @@
+1. Vue adalah frame work javascript
+2. data() {
+   return {
+
+    }  
+   },
+3. mounted
+4. v-bind
+5. v-on:keyup / @keyup
+6. 
+7. Untuk melakukan operasi asynchronous / operasi expensive sebagai hasil perubahan data
+8. v-model
+9. 
+10. v-if, v-else-if, v-else
+11. v-for
+12. item in items
+13. 
+14. {{ title }}
+15. bagian kecil yang dapat digunakan di manapun
+16. {{ item.title}}
+17. tempat pusat data untuk semua komponen
+
+ 
