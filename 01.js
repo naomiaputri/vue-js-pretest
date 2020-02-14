@@ -1,5 +1,4 @@
-    <script>
-    
+ 
     function myFunction() {
 
     var data = prompt('Enter your point');
@@ -21,6 +20,3 @@
         }
         return 'F';
     }
-
-    </script>
-
